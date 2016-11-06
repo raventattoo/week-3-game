@@ -1,0 +1,51 @@
+header {
+	font: verdana sans-serif;
+	font-size: 36px;
+	color: purple;
+	background: black;
+	text-align: center;
+	width: 90% auto;
+	height: auto;
+	margin: 0;
+}
+
+img {
+	float: left;
+	display: block;
+	max-width: 450px;
+	height: auto;
+}
+
+.letterbtn {
+	float: left;
+	width: 30px;
+	height: auto;
+	background: black;
+	color: blue;
+}
+
+#alphabetpanel {
+	float: left;
+	width: 90% auto;
+	background: black;
+}
+
+#panelTitle {
+	text-align: center;
+	color: blue;
+}
+
+#panelBody {
+	width: 100% auto;
+	height: auto;
+	background: black;
+
+}
+
+#playPanel {
+	float: left;
+	width: 600px;
+	height: 200px;
+	background: black;
+	color: white;
+}
